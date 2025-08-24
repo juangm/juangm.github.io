@@ -1,0 +1,9 @@
+# Web site compilation
+_site/**/*
+
+# Cache folders
+.sass-cache/**/*
+.jekyll-cache/**/*
+
+# Others
+.DS_Store

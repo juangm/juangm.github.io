@@ -1,0 +1,14 @@
+# Site settings
+title: Juan
+email: juan@qacode.xyz
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "qacode.xyz" # the base hostname & protocol for your site
+
+twitter_username:
+github_username: juangm
+linkedin_username: juangm
+dev_profile: juangm
+
+# Build settings
+markdown: kramdown
